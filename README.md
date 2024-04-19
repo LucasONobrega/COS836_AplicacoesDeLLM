@@ -1,8 +1,6 @@
-# COS836 - Aplicações de LLM
+# Handling Large Contexts in Large Language Models: Strategies Beyond Model Limits
 
 This repository contains all the files used in the course Aplicações de LLM (COS836) of the Programa de Engenharia de Sistemas e Computação (COPPE/PESC) at Universidade Federal do Rio de Janeiro (UFRJ).
-
-## Handling Large Contexts in Large Language Models: Strategies Beyond Model Limits
 
 **Abstract**
 
